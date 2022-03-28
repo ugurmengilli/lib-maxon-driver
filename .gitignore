@@ -1,0 +1,7 @@
+# MATLAB/Simulink auto-save files
+*.asv
+*.autosave
+
+# IDE config folders
+.idea
+.vs
