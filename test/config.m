@@ -6,3 +6,5 @@ clear all; clc;
 
 %% Add current folder structure into path.
 run(fullfile('..', 'addlib.m'));
+%% Open the test model
+open('test_maxon_driver.slx')
